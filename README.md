@@ -15,10 +15,6 @@ TodoMaster is a powerful task management application built with Next.js, featuri
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/aryan877/todo-master.git
-   cd role-based-auth
-   ```
 
 2. Install dependencies:
 
@@ -100,10 +96,4 @@ To test the admin functionality, you need to manually set the user's role to "ad
 
 Now, when this user logs in, they will have admin privileges in the application.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
